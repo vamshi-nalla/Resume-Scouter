@@ -9,7 +9,7 @@ import json
 
 st.set_page_config(page_title="Resume & GitHub Analyzer", layout="wide")
 
-st.title("🤖 Resume + GitHub Analyzer")
+st.title("🤖 Resume Scouter")
 st.markdown("Upload your resume, enter your API keys, and get structured insights and an executive summary.")
 
 # --- Sidebar API Keys and Model Selection ---
