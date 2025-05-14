@@ -1,0 +1,12 @@
+streamlit
+python-dotenv
+pydantic
+PyMuPDF
+PyYAML
+requests
+langchain
+langchain-core
+langchain-openai
+langchain-groq
+langchain_community
+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
